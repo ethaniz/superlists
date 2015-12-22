@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70053fde-7b35-4413-bdd9-402ba10e184f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functional_tests/test_list_item_validation.py" afterPath="$PROJECT_DIR$/functional_tests/test_list_item_validation.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lists/forms.py" afterPath="$PROJECT_DIR$/lists/forms.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lists/models.py" afterPath="$PROJECT_DIR$/lists/models.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lists/tests/test_forms.py" afterPath="$PROJECT_DIR$/lists/tests/test_forms.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lists/tests/test_models.py" afterPath="$PROJECT_DIR$/lists/tests/test_models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lists/tests/test_views.py" afterPath="$PROJECT_DIR$/lists/tests/test_views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lists/views.py" afterPath="$PROJECT_DIR$/lists/views.py" />
     </list>
     <ignored path="superlists.iws" />
@@ -32,12 +29,10 @@
       <file leaf-file-name="test_forms.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lists/tests/test_forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.11111">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state vertical-scroll-proportion="-10.777778">
+              <caret line="49" column="41" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
-                <marker date="1450751565698" expanded="true" signature="132:962" placeholder="..." />
-                <marker date="1450751565698" expanded="true" signature="678:962" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -65,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_models.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lists/tests/test_models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.53696495">
-              <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+            <state vertical-scroll-proportion="-6.053571">
+              <caret line="38" column="37" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -87,11 +82,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lists/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.0">
-              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.6519337">
+              <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -102,8 +97,8 @@
       <file leaf-file-name="test_views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lists/tests/test_views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.0535715">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="14" />
+            <state vertical-scroll-proportion="-7.303571">
+              <caret line="156" column="44" selection-start-line="156" selection-start-column="44" selection-end-line="156" selection-end-column="44" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -124,8 +119,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lists/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.444445">
-              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+            <state vertical-scroll-proportion="-13.111111">
+              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
               <folding>
                 <element signature="e#0#45#0" expanded="true" />
               </folding>
@@ -172,13 +167,13 @@
         <option value="$PROJECT_DIR$/functional_tests/test_layout_and_styling.py" />
         <option value="$PROJECT_DIR$/functional_tests/test_simple_list_creation.py" />
         <option value="$PROJECT_DIR$/lists/templates/base.html" />
-        <option value="$PROJECT_DIR$/lists/tests/test_views.py" />
-        <option value="$PROJECT_DIR$/lists/tests/test_forms.py" />
-        <option value="$PROJECT_DIR$/lists/forms.py" />
-        <option value="$PROJECT_DIR$/lists/views.py" />
         <option value="$PROJECT_DIR$/functional_tests/test_list_item_validation.py" />
         <option value="$PROJECT_DIR$/lists/models.py" />
         <option value="$PROJECT_DIR$/lists/tests/test_models.py" />
+        <option value="$PROJECT_DIR$/lists/tests/test_views.py" />
+        <option value="$PROJECT_DIR$/lists/views.py" />
+        <option value="$PROJECT_DIR$/lists/tests/test_forms.py" />
+        <option value="$PROJECT_DIR$/lists/forms.py" />
       </list>
     </option>
   </component>
@@ -342,7 +337,7 @@
       <recent name="D:\study\python\django\superlists\lists\static\bootstrap" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.unit test">
+  <component name="RunManager" selected="Python.functional_test">
     <configuration default="false" name="unit test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -543,7 +538,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1634" height="1066" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19715698" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -580,12 +575,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/lists/tests/test_views.py</url>
-          <line>35</line>
+          <line>40</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/lists/tests/test_views.py</url>
-          <line>37</line>
+          <line>42</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
@@ -665,7 +660,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
           <folding>
-            <element signature="e#22#52#0" expanded="true" />
+            <element signature="e#22#52#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -928,7 +923,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="83" column="48" selection-start-line="83" selection-start-column="48" selection-end-line="83" selection-end-column="48" />
           <folding>
-            <element signature="e#22#52#0" expanded="true" />
+            <element signature="e#22#52#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -938,26 +933,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="76" selection-start-line="21" selection-start-column="76" selection-end-line="21" selection-end-column="76" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lists/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.0">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lists/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.444445">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -974,28 +949,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lists/tests/test_forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.11111">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-            <marker date="1450751565698" expanded="true" signature="132:962" placeholder="..." />
-            <marker date="1450751565698" expanded="true" signature="678:962" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lists/tests/test_views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.0535715">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1019,10 +972,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lists/tests/test_models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53696495">
-          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+        <state vertical-scroll-proportion="-6.053571">
+          <caret line="38" column="37" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lists/tests/test_views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.303571">
+          <caret line="156" column="44" selection-start-line="156" selection-start-column="44" selection-end-line="156" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lists/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.111111">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lists/tests/test_forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.777778">
+          <caret line="49" column="41" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lists/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6519337">
+          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
           </folding>
         </state>
       </provider>
